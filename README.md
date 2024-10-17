@@ -22,7 +22,8 @@ The project involves:
 
 ## Dataset
 
-The MNIST dataset is used, which contains 28x28 grayscale images of handwritten digits.
+The MNIST dataset is used, which contains 28x28 grayscale images of handwritten digits.  
 
 - **Training Data:** 60,000 examples
 - **Testing Data:** 10,000 examples
+- **Download Link (MNIST in CSV format):** [MNIST Dataset in CSV](https://pjreddie.com/projects/mnist-in-csv/)
