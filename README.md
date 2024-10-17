@@ -1,9 +1,5 @@
-# handwritten-digit-classification
-This project demonstrates the implementation of a Gaussian Naive Bayes approach for classifying handwritten digits using the MNIST dataset. The project evaluates the model's performance using metrics such as accuracy, confusion matrix, micro-average precision, recall, and F1 score. Python, Pandas, and Scikit-learn were used for the implementation.
-
 # Handwritten Digit Classification
-
-This project implements a **Gaussian Naive Bayes** approach for the classification of handwritten digits using the MNIST dataset.
+This project demonstrates the implementation of a Gaussian Naive Bayes approach for classifying handwritten digits using the MNIST dataset. The project evaluates the model's performance using metrics such as accuracy, confusion matrix, micro-average precision, recall, and F1 score. Python, Pandas, and Scikit-learn were used for the implementation.
 
 ## Project Overview
 
